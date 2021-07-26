@@ -1,2 +1,2 @@
-# react-shopping-cart
+# shopping-cart-react
 Created with CodeSandbox
